@@ -1,6 +1,6 @@
 # Dropbox Uploader
 
-[![DepShield Badge](https://depshield.sonatype.org/badges/owner/repository/depshield.svg)](https://depshield.github.io)
+[![DepShield Badge](https://depshield.sonatype.org/badges/UbzyHD/Dropbox-Uploader/depshield.svg)](https://depshield.github.io)
 
 Dropbox Uploader is a **BASH** script which can be used to upload, download, delete, list files (and more!) from **Dropbox**, an online file sharing, synchronization and backup service. 
 
